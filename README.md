@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+https://api-superheroes-production.up.railway.app/
+
 ## Installation
 
 ```bash
